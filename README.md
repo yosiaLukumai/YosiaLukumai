@@ -24,7 +24,7 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
             <li>
                 <p> <u> Web Frameworks </u> </p>
                 <ul>
-                    <li>Node || Express ||  Vue ||  Quisar || Django </li>
+                    <li>Node || Express ||  Vue ||  Quasar || Django </li>
                 </ul>
             <li>
                 <p> <u> Data Science (ML/AI)  </u></p>
