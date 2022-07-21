@@ -96,7 +96,7 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
             <li><a href = "https://pypi.org/project/read-comports-tonet/0.0.1/">read_comports_tonet</a> Read Easier your data from ports and send them over your server</li>
         </ul>
         <ul>
-        <li> <a href = "https://pypi.org/project/PyDbSchema/0.0.5/"> Validate your Schema skeleton and providing them Defaults when inserting, using pymongo under the hood</a>Create Schema object define rules and when inserting data this rules will be followed</li>
+        <li> <a href = "https://pypi.org/project/PyDbSchema/0.0.5/"> PyDbSchema </a> Validate your Schema skeleton and providing them Defaults when inserting, using pymongo under the hood, Create Schema object define rules and when inserting data this rules will be followed</li>
         </ul>
     </li>
         <p><b>Contact <b><p>
