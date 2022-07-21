@@ -5,7 +5,7 @@
 
 
 ### Who am I ?
-I am a developer who is enthusiastic in using tec in solving most of the problems that we do encounter everyday, I Started this passion while in High school and when I finished I joined University taking Mechatronics Engineering, But I found myself much enganged in software engineering especially Machine Learning and Full Stack Web Development, I have worked on tons of software engineering projects, like writing some of the packages like read_comports_tonet which can be found in pypi, Web apps such as a web app for a certain school.
+I am a developer who is enthusiastic in using tec in solving most of the problems that we do encounter everyday, I Started this passion while in High school and when I finished I joined University taking Mechatronics Engineering, But I found myself much enganged in software engineering especially Machine Learning and Full Stack Web Development, I have worked on tons of software engineering projects, like writing some of the packages  like read_comports_tonet and PyDBSchema which can be found in pypi, Writing web app for the clients at Our company
 
 
 
@@ -24,19 +24,20 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
             <li>
                 <p> <u> Web Frameworks </u> </p>
                 <ul>
-                    <li>Node || Express ||  Vue ||  Quasar || Django </li>
+                    <li>Node || Express ||  Vue ||  Quisar || Django </li>
                 </ul>
             <li>
                 <p> <u> Data Science (ML/AI)  </u></p>
                 <ul>
-                    <li> Tensorflow || keras || Sklearn </li>
+                    <li> Sklearn || Tensorflow || keras  </li>
                 </ul>
             </li>
             <li>
                 <p>  <u> Databases  </u>  </u></p>
                 <ul>
                     <li>MongoDB | Fibase </li>
-                    <li> Mysql | Sqlite | MariaDB </li>   
+                    <li> Mysql | Sqlite | MariaDB  </li>   
+                    <li> Drivers like Knexdb, Sequelize </li>
                 </ul>
                 </li>
             <li>
@@ -93,6 +94,9 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
         <p> Here is a package I mantain</p>
         <ul>
             <li><a href = "https://pypi.org/project/read-comports-tonet/0.0.1/">read_comports_tonet</a> Read Easier your data from ports and send them over your server</li>
+        </ul>
+        <ul>
+        <li> <a href = "https://pypi.org/project/PyDbSchema/0.0.5/"> Validate your Schema skeleton and providing them Defaults when inserting, using pymongo under the hood</a>Create Schema object define rules and when inserting data this rules will be followed</li>
         </ul>
     </li>
         <p><b>Contact <b><p>
