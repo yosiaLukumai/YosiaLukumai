@@ -14,7 +14,7 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
     <li>
         <p><b>languages</b></p>
         <ul>
-            <li>Python | Javascript | C++ | Arduino </li>
+            <li>Python | Javascript | Go-lang | Arduino </li>
             <li>Html | Css | Yaml | Json </li>
         </ul>
     </li>
@@ -24,7 +24,7 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
             <li>
                 <p> <u> Web Frameworks </u> </p>
                 <ul>
-                    <li>Node || Express ||  Vue ||  Quisar || Django </li>
+                    <li>Node || Express ||  Vue ||  Quasar || Django </li>
                 </ul>
             <li>
                 <p> <u> Data Science (ML/AI)  </u></p>
@@ -43,7 +43,7 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
             <li>
                 <p> <u>IoT  </u></p>
                 <ul>
-                    <li> Raspberry Pi | NodeMCU | Arduino</li>
+                    <li> Raspberry Pi | NodeMCU | Arduino | Stm 32</li>
                 </ul>
             </li>
         <li>
