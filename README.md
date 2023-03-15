@@ -1,12 +1,5 @@
-
-
-
-### Hi there i am Yosia..
-
-
 ### Who am I ?
-I am a developer who is enthusiastic in using tec in solving most of the problems that we do encounter everyday, I Started this passion while in High school and when I finished I joined University taking Mechatronics Engineering, But I found myself much enganged in software engineering especially Machine Learning and Full Stack Web Development, I have worked on tons of software engineering projects, like writing some of the packages  like read_comports_tonet and PyDBSchema which can be found in pypi, Writing web app for the clients at Our company
-
+I am developer passionate in using tec in solving most of problems, I am competent in full stack development on creating webapps and Backend Infrastructures,Computer vision and Embedded system design of commmercial products and simulations.I have worked on tons of software engineering projects, like writing some of the packages  like read_comports_tonet and PyDBSchema which can be found in pypi, Writing web app for the clients at Our company
 
 
 <h3>My Tech stack</h3>
@@ -14,7 +7,7 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
     <li>
         <p><b>languages</b></p>
         <ul>
-            <li>Python | Javascript | Go-lang | Arduino </li>
+            <li>Python | Javascript | Go-lang | C | Arduino </li>
             <li>Html | Css | Yaml | Json </li>
         </ul>
     </li>
@@ -27,12 +20,7 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
                     <li>Node || Express ||  Vue ||  Quasar || Django </li>
                 </ul>
             <li>
-                <p> <u> Data Science (ML/AI)  </u></p>
-                <ul>
-                    <li> Sklearn || Tensorflow || keras  </li>
-                </ul>
-            </li>
-            <li>
+               <li>
                 <p>  <u> Databases  </u>  </u></p>
                 <ul>
                     <li>MongoDB | Fibase </li>
@@ -40,13 +28,7 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
                     <li> Drivers like Knexdb, Sequelize </li>
                 </ul>
                 </li>
-            <li>
-                <p> <u>IoT  </u></p>
-                <ul>
-                    <li> Raspberry Pi | NodeMCU | Arduino | Stm 32</li>
-                </ul>
-            </li>
-        <li>
+                  <li>
             <p>  <u>Cloud & Hosting  </u> </samp</p>
             <ul>
                 <li>Digital Ocean || Namecheap || Linode </li>
@@ -58,6 +40,36 @@ I am a developer who is enthusiastic in using tec in solving most of the problem
                 <li> Firecamp | Postman </li>
             </ul>
         </li>
+            <li>
+                <p> <u> Data Science (ML/AI)  </u></p>
+                <ul>
+                    <li> Sklearn || Tensorflow || keras || Pytorch  </li>
+                </ul>
+            </li>
+              <li>
+                <p> <u>Computer Vision</u></p>
+                <ul>
+                    <li> Yolo ||Opencv</li>
+                </ul>
+            </li>
+                <p> <u>Embedded Platforms</u></p>
+                <ul>
+                    <li> AVR| STM </li>
+                </ul>
+            </li>
+               </li>
+                <p> <u>Micro-controllers and Single Board Computer</u></p>
+                <ul>
+                    <li>ESP-8266 || Arduino || Raspberry-pi  </li>
+                </ul>
+            </li>
+              </li>
+               </li>
+                <p> <u>CAD and Simulation Softwares</u></p>
+                <ul>
+                    <li>Autocad > 2018 || Proteus || KiCad   </li>
+                </ul>
+            </li>
         </ul>
     </li>
     <li>
