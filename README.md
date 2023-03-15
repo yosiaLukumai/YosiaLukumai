@@ -19,8 +19,7 @@ I am developer passionate in using tec in solving most of problems, I am compete
                 <ul>
                     <li>Node || Express ||  Vue ||  Quasar || Django </li>
                 </ul>
-            <li>
-               <li>
+           <li>
                 <p>  <u> Databases  </u>  </u></p>
                 <ul>
                     <li>MongoDB | Fibase </li>
@@ -49,25 +48,26 @@ I am developer passionate in using tec in solving most of problems, I am compete
               <li>
                 <p> <u>Computer Vision</u></p>
                 <ul>
-                    <li> Yolo ||Opencv</li>
+                    <li> Yolo || Opencv</li>
                 </ul>
             </li>
+            <li>
                 <p> <u>Embedded Platforms</u></p>
                 <ul>
                     <li> AVR| STM </li>
                 </ul>
             </li>
-               </li>
+               <li>
                 <p> <u>Micro-controllers and Single Board Computer</u></p>
                 <ul>
                     <li>ESP-8266 || Arduino || Raspberry-pi  </li>
                 </ul>
             </li>
               </li>
-               </li>
+               <li>
                 <p> <u>CAD and Simulation Softwares</u></p>
                 <ul>
-                    <li>Autocad > 2018 || Proteus || KiCad   </li>
+                    <li>Autocad >= 2018 || Proteus || KiCad   </li>
                 </ul>
             </li>
         </ul>
