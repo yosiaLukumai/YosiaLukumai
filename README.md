@@ -1,5 +1,5 @@
 ### Who am I ?
-I am Yosia Lukumai, From Tanzania. A passionate engineer to make your tech idea come to life
+I am Yosia Lukumai. A passionate engineer to make your tech idea come to life
 <h3>My Tech stack</h3>
 <ul>
     <li>
