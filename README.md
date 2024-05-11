@@ -24,8 +24,7 @@ I am Yosia Lukumai, From Tanzania. A passionate engineer to make your tech idea 
                 <p>  <u> Databases  </u>  </u></p>
                 <ul>
                     <li>MongoDB | Fibase </li>
-                    <li> Mysql | Sqlite | MariaDB  </li>   
-                    <li> Drivers like Knexdb, Sequelize </li>
+                    <li> Mysql | Sqlite | MariaDB  </li> 
                 </ul>
                 </li>
                   <li>
