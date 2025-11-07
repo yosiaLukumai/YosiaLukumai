@@ -18,13 +18,13 @@ I am Yosia Lukumai. A passionate engineer to make your tech idea come to life
                 </ul>
                 <p> <u> Web Frameworks </u> </p>
                 <ul>
-                    <li> React (MUI) || Node || Express || Vue (Quasar)   </li>
+                    <li> React || Node || Express || Vue (Quasar)   </li>
                 </ul>
            <li>
                 <p>  <u> Databases  </u>  </u></p>
                 <ul>
                     <li>MongoDB | Fibase </li>
-                    <li> Mysql | Sqlite | MariaDB  </li> 
+                    <li>  Postgresql| Mysql | Sqlite | MariaDB  </li> 
                 </ul>
                 </li>
                   <li>
@@ -74,6 +74,7 @@ I am Yosia Lukumai. A passionate engineer to make your tech idea come to life
             </li>
         </ul>
     </li>
+
 
 
 
